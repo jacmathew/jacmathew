@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T10:41:25.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="23ScQplIVxQvgGYzWzPr" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T10:52:42.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="KLPiApZWVzU-u0y_eK_Z" version="15.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,22 +37,22 @@
         <mxCell id="WLyRSpKQYhAJeBM3w8Sg-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WLyRSpKQYhAJeBM3w8Sg-12" target="WLyRSpKQYhAJeBM3w8Sg-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WLyRSpKQYhAJeBM3w8Sg-12" value="Prepare customer onboarding template" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WLyRSpKQYhAJeBM3w8Sg-12" value="Create VPC peering between main and customer VPC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="79" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WLyRSpKQYhAJeBM3w8Sg-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WLyRSpKQYhAJeBM3w8Sg-14" target="WLyRSpKQYhAJeBM3w8Sg-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WLyRSpKQYhAJeBM3w8Sg-14" value="Create new VPC as per the IP addressing schema" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WLyRSpKQYhAJeBM3w8Sg-14" value="Approve peering" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="161" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WLyRSpKQYhAJeBM3w8Sg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WLyRSpKQYhAJeBM3w8Sg-16" target="WLyRSpKQYhAJeBM3w8Sg-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WLyRSpKQYhAJeBM3w8Sg-16" value="Create subnets" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WLyRSpKQYhAJeBM3w8Sg-16" value="Update main and customer route tables" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="241" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WLyRSpKQYhAJeBM3w8Sg-17" value="Create route table and check subnet assosiations" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WLyRSpKQYhAJeBM3w8Sg-17" value="Test traffic flow between main and customer VPC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
