@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T13:34:13.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="mYiwAYH9cvvSEYOM5LSt" version="16.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T13:36:38.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="MhFu8ZuP3f7d0pHZ2pdp" version="16.3.0" type="github">
   <diagram id="e3lR1-13QfDygwD2T3bt" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,10 +49,10 @@
         <mxCell id="uNf3FaEutj_hBp6h3jgK-14" value="AZ3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="371" y="363" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uNf3FaEutj_hBp6h3jgK-17" value="LINBIT SDS NODES (a1.metal)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontColor=#0000CC;rotation=-90;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="uNf3FaEutj_hBp6h3jgK-17" value="LINBIT SDS NODES (a1.metal)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;dashPattern=1 1;fontColor=#0000CC;rotation=-90;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="238" y="268" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uNf3FaEutj_hBp6h3jgK-18" value="KUBERMATIC KUBERNETES PLATFORM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontColor=#009900;rotation=-90;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="uNf3FaEutj_hBp6h3jgK-18" value="KUBERMATIC KUBERNETES PLATFORM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;dashPattern=1 1;fontColor=#009900;rotation=-90;fontStyle=1;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="324" y="268" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
