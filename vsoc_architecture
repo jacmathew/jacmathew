@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T05:43:00.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2u24g1J-MlZyojUJcFRu" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T05:56:33.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0vbOS9MSaBHblatdVoAz" version="20.8.23" type="github">
   <diagram name="Page-1" id="Eq2sPpmSUsPvyZgZC2rB">
     <mxGraphModel dx="1059" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -153,6 +153,21 @@
         </mxCell>
         <mxCell id="5hYR0rTXQ-lW0aminicr-54" value="Customer3 DC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="719" y="531" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hYR0rTXQ-lW0aminicr-55" value="Customer2 DC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="715" y="393" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hYR0rTXQ-lW0aminicr-56" value="Customer1 DC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="710" y="256" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hYR0rTXQ-lW0aminicr-57" value="VPN tunnel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="580" y="229" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hYR0rTXQ-lW0aminicr-58" value="VPN tunnel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="580" y="367" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hYR0rTXQ-lW0aminicr-59" value="VPN tunnel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="580" y="505" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
