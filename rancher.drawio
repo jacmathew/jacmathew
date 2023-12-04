@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T16:46:12.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cQ9k7TdoZSEMmWSx5Xj6" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T16:53:53.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bChuK8NrNEoO9os4dv2g" version="22.1.5" type="github">
   <diagram name="Page-1" id="ktSY6MVU8smwYJIqoYWo">
     <mxGraphModel dx="1114" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,6 +75,21 @@
               <mxPoint x="421" y="100" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kDmngPicLHdWZx2PWt0R-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="140" as="sourcePoint" />
+            <mxPoint x="220" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDmngPicLHdWZx2PWt0R-23" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;" vertex="1" parent="1">
+          <mxGeometry x="120" y="125.5" width="30" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="kDmngPicLHdWZx2PWt0R-24" value="kubectl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="114" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kDmngPicLHdWZx2PWt0R-26" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Kubernetes API&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="146" y="132" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
