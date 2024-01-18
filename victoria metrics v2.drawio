@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T09:22:56.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HMIrMuEahYNIsc6eJTm-" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T09:24:34.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hgyLimWVt-uuNhbFGBaa" version="22.1.21" type="github">
   <diagram name="Page-1" id="RzUNNnyfEO3mrDcDwJcw">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -208,8 +208,11 @@
         <mxCell id="fusO8pz2TBp44H7BOHlH-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=#666666;dashed=1;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="4" y="117" width="75" height="172" as="geometry" />
         </mxCell>
-        <mxCell id="fusO8pz2TBp44H7BOHlH-57" value="VMAGENTS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fusO8pz2TBp44H7BOHlH-57" value="VMAGENTS&lt;br&gt;&lt;font style=&quot;font-size: 9px; font-weight: normal;&quot;&gt;Push/Pull&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="11.5" y="289" width="67.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fusO8pz2TBp44H7BOHlH-58" value="VMINSERT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="310" width="67.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
