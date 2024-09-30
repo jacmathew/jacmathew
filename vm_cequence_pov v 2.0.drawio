@@ -31,8 +31,8 @@
         <mxCell id="SuLtBPuV00fTaetFLAZB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SuLtBPuV00fTaetFLAZB-5" target="SuLtBPuV00fTaetFLAZB-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="219" />
-              <mxPoint x="340" y="155" />
+              <mxPoint x="330" y="219" />
+              <mxPoint x="330" y="155" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -76,8 +76,8 @@
         <mxCell id="SuLtBPuV00fTaetFLAZB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SuLtBPuV00fTaetFLAZB-29" target="SuLtBPuV00fTaetFLAZB-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="650" y="219" />
-              <mxPoint x="650" y="155" />
+              <mxPoint x="640" y="219" />
+              <mxPoint x="640" y="155" />
             </Array>
           </mxGeometry>
         </mxCell>
