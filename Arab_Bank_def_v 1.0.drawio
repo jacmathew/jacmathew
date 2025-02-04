@@ -1297,12 +1297,6 @@
             <mxPoint x="-922" y="772" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3IxOJeBXxnw7Fm0dpKe-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n3IxOJeBXxnw7Fm0dpKe-1" source="n3IxOJeBXxnw7Fm0dpKe-124" target="n3IxOJeBXxnw7Fm0dpKe-209">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n3IxOJeBXxnw7Fm0dpKe-124" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Replication&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;dashed=1;dashPattern=1 4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="n3IxOJeBXxnw7Fm0dpKe-1">
-          <mxGeometry x="-1062.78" y="627" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="n3IxOJeBXxnw7Fm0dpKe-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="n3IxOJeBXxnw7Fm0dpKe-1" source="n3IxOJeBXxnw7Fm0dpKe-127" target="n3IxOJeBXxnw7Fm0dpKe-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1625,9 +1619,6 @@
         </mxCell>
         <mxCell id="n3IxOJeBXxnw7Fm0dpKe-208" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Third Party APIs (Public)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=0;fontSize=14;container=0;spacing=2;fillColor=#660066;fontColor=#FFFFFF;" vertex="1" parent="n3IxOJeBXxnw7Fm0dpKe-1">
           <mxGeometry x="-2874.22" y="463" width="270" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="n3IxOJeBXxnw7Fm0dpKe-209" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Replication&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;dashed=1;dashPattern=1 4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="n3IxOJeBXxnw7Fm0dpKe-1">
-          <mxGeometry x="-922.78" y="627" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3IxOJeBXxnw7Fm0dpKe-210" value="" style="group" vertex="1" connectable="0" parent="n3IxOJeBXxnw7Fm0dpKe-1">
           <mxGeometry x="-1142" y="737" width="319" height="79" as="geometry" />
