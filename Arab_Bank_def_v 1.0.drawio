@@ -163,12 +163,14 @@
         <mxCell id="ACQ-QuZeGpSRvs1RcJJU-97" value="&lt;b&gt;H.O&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="ACQ-QuZeGpSRvs1RcJJU-82" vertex="1">
           <mxGeometry x="180" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ACQ-QuZeGpSRvs1RcJJU-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="ACQ-QuZeGpSRvs1RcJJU-45" target="ACQ-QuZeGpSRvs1RcJJU-81" edge="1">
+        <mxCell id="ACQ-QuZeGpSRvs1RcJJU-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-991" y="1202" />
-              <mxPoint x="-1755" y="1202" />
+              <mxPoint x="-991" y="1203" />
+              <mxPoint x="-1742" y="1203" />
             </Array>
+            <mxPoint x="-991.4642857142858" y="1133" as="sourcePoint" />
+            <mxPoint x="-1742" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tc8ILF-lxxv5mVX3P-oi-18" value="TLS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontStyle=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="ACQ-QuZeGpSRvs1RcJJU-90" vertex="1" connectable="0">
@@ -665,10 +667,14 @@
         <mxCell id="b7I-eS7KK1-K7R2MjFxD-2" value="&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Fira Sans, Droid Sans, Helvetica Neue, sans-serif&quot; color=&quot;#172b4d&quot;&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;IBM DataPower External Gateway&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="b7I-eS7KK1-K7R2MjFxD-5" vertex="1">
           <mxGeometry x="92.42999999999984" y="13.610000000000014" width="212.38" height="39.78" as="geometry" />
         </mxCell>
-        <mxCell id="xaANVQhiJY2frOcM1050-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9E009E;strokeWidth=3;" parent="1" source="Tc8ILF-lxxv5mVX3P-oi-7" target="g-aiEPzKfRXNJb5MDZeJ-7" edge="1">
+        <mxCell id="xaANVQhiJY2frOcM1050-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9E009E;strokeWidth=3;" parent="1" target="g-aiEPzKfRXNJb5MDZeJ-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2139" y="1091.33" as="sourcePoint" />
+            <mxPoint x="-1787" y="1230" as="sourcePoint" />
             <mxPoint x="-2279" y="1091.33" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1787" y="1232" />
+              <mxPoint x="-1787" y="741" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xaANVQhiJY2frOcM1050-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=3;" parent="1" source="g-aiEPzKfRXNJb5MDZeJ-7" target="QrEwk2GOT85eXLbbr9qH-17" edge="1">
@@ -692,7 +698,7 @@
             <mxPoint x="-1768" y="1012" as="sourcePoint" />
             <mxPoint x="-782" y="957" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1798" y="1027" />
+              <mxPoint x="-1860" y="1027" />
               <mxPoint x="-2007" y="1027" />
             </Array>
           </mxGeometry>
