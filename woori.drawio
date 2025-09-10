@@ -100,8 +100,8 @@
         </mxCell>
         <mxCell id="LdZ-rbi3jOA859ZZPPNh-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classicThin;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="287" y="310" as="sourcePoint" />
-            <mxPoint x="467" y="400" as="targetPoint" />
+            <mxPoint x="286" y="307" as="sourcePoint" />
+            <mxPoint x="466" y="397" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LdZ-rbi3jOA859ZZPPNh-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LdZ-rbi3jOA859ZZPPNh-13">
@@ -119,9 +119,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LdZ-rbi3jOA859ZZPPNh-17" value="TCP443" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="610" y="180" as="geometry">
+          <mxGeometry x="620" y="180" as="geometry">
             <mxPoint x="-246" y="171" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LdZ-rbi3jOA859ZZPPNh-18" value="&lt;b&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;SHARED&amp;nbsp; STORAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
